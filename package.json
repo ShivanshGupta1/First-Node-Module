@@ -1,0 +1,19 @@
+{
+  "name": "@shivanshgupta1/first-node-module",
+  "version": "1.0.0",
+  "description": "This is my first ever node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivanshGupta1/First-Node-Module.git"
+  },
+  "author": "Shivansh Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivanshGupta1/First-Node-Module/issues"
+  },
+  "homepage": "https://github.com/ShivanshGupta1/First-Node-Module#readme"
+}
